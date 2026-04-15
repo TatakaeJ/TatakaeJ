@@ -10,11 +10,11 @@
 
 ### 🛠️ Tech Stack & Tools  
 **Lenguajes:**  
-- 🤖 JavaScript
+- 🐍 Python
 - 📊 SQL  
 
 **Learning:** 
-- 🐍 Python
+- 📱 React Native
 - 🐙 Git / GitHub  
 
 ---
@@ -22,7 +22,7 @@
 ### 📌 Intereses  
 - 🧮 Machine Learning
 - ⚙️ Optimización de procesos
-- 🎮 Desarrollo de video juegos
+- 💻 Desarrollo web y movil
 
 ---
 
